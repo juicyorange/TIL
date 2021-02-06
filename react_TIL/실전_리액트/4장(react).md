@@ -22,7 +22,7 @@
 
     const URL_PRODUCT_LIST = '/api/products';
     function getTotalPrice({ price, total }){
-        //...4
+        //...3
     }
     ```
     - 1 : 최상단에는 속성값의 타입을 정의한다. 
