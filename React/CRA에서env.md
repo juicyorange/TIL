@@ -16,7 +16,9 @@
  * 변수를 작성할때 반드시 ```REACT_APP_```을 붙여줘야 한다.
     * ex)
 
-        > REACT_APP_API_KEY = alkjwneflkawjenflkwjenf 
+        > REACT_APP_API_KEY = alkjwneflkawjenflkwjenf <br/>
+        REACT_APP_APP_ID = kjwefaljkhwebfkjawhebf
+ * 각 키 값에 ```" "```를 붙이지 않고, 끝에 ```,``` 를 작성하지 않는다
  * 이를 통해 외부에서는 알면 안되는 값들을 지정해준다.
 
 ## 변수 사용하기
